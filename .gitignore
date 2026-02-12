@@ -1,0 +1,59 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# -------------------------
+# Virtual Environments
+# -------------------------
+venv/
+env/
+.venv/
+torch_gpu_env/
+
+# -------------------------
+# Jupyter
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# HuggingFace / Transformers
+# -------------------------
+.cache/
+.cache/*
+hf_cache/
+transformers_cache/
+
+# -------------------------
+# Training Outputs
+# -------------------------
+lora_sarvam/
+lora_sarvam/**
+
+# -------------------------
+# Evaluation Artifacts
+# -------------------------
+eval/before_outputs.json
+eval/after_outputs.json
+
+# (keep prompts.json, ignore generated outputs)
+
+# -------------------------
+# Logs & Temp
+# -------------------------
+*.log
+logs/
+tmp/
+temp/
+
+# -------------------------
+# OS
+# -------------------------
+.DS_Store
+Thumbs.db

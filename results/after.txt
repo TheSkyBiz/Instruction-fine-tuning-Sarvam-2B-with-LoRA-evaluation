@@ -1,0 +1,5 @@
+### Instruction:
+Explain overfitting in simple terms for an Indian engineering student.
+
+### Response:
+Overfitting occurs when a model performs well on the training data but struggles to generalize to new, unseen data. This happens because the model has too much complexity relative to the amount of available information or because it makes certain assumptions about the underlying relationships that are not correct.

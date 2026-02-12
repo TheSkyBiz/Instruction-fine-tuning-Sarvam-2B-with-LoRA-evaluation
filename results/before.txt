@@ -1,0 +1,9 @@
+### Instruction:
+Explain Neural Networks to an elementary school child.
+
+### Response:
+Tiny Me, tiny Me!
+Imagine a world inside your head where you have lots of little helpers called neurons who work together. These neurons share messages and pass them on through wires until they get all the way down to a special kind of computer called a "neural network." This neural network processes information like a giant puzzle! 
+When something interesting happens in our brain, it sends out signals - or messages - called neuron signals. Think about when we feel really excited; maybe we scream for joy because our happy neurons are sending their message loudly and clearly! Similarly, if someone tells us something new, other neurons send their message over those same 'wires' using different types of signals, helping us remember things better! Sometimes these wires can even cause confusion, making everyone go "Wow!" That's why understanding how our brains create memories is so important.
+
+Let me give you another example involving food since I

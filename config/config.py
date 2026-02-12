@@ -1,0 +1,19 @@
+MODEL_NAME = "sarvamai/sarvam-1"
+
+MAX_SEQ_LENGTH = 512
+
+# LoRA config
+LORA_R = 16
+LORA_ALPHA = 32
+LORA_DROPOUT = 0.05
+TARGET_MODULES = ["q_proj", "v_proj"]
+
+# Training
+BATCH_SIZE = 2
+GRAD_ACCUM_STEPS = 4
+EPOCHS = 3
+LEARNING_RATE = 2e-4
+
+# Generation
+GEN_TEMPERATURE = 1
+GEN_MAX_TOKENS = 300
